@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaClasses", "SobrecargaClasses\SobrecargaClasses.csproj", "{0BFF28E3-5392-4ED7-B515-03D91BDFA775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaConsole", "SobrecargaConsole\SobrecargaConsole.csproj", "{5E1B16FB-3117-4F43-B0B2-5DF8151C339E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BFF28E3-5392-4ED7-B515-03D91BDFA775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFF28E3-5392-4ED7-B515-03D91BDFA775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFF28E3-5392-4ED7-B515-03D91BDFA775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFF28E3-5392-4ED7-B515-03D91BDFA775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1B16FB-3117-4F43-B0B2-5DF8151C339E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1B16FB-3117-4F43-B0B2-5DF8151C339E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1B16FB-3117-4F43-B0B2-5DF8151C339E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1B16FB-3117-4F43-B0B2-5DF8151C339E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F3057A9-31BA-4801-B6A8-E3B109ABE1C7}
+	EndGlobalSection
+EndGlobal
